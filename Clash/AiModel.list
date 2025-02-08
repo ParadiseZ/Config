@@ -1,5 +1,5 @@
 #huggingface
-DOMAIN-SUFFIX=huggingface.io
+DOMAIN-SUFFIX,huggingface.io
 
 #ollama
-DOMAIN-SUFFIX=ollama.com
+DOMAIN-SUFFIX,ollama.com
