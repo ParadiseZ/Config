@@ -1,0 +1,5 @@
+#huggingface
+DOMAIN-SUFFIX=huggingface.io
+
+#ollama
+DOMAIN-SUFFIX=ollama.com
